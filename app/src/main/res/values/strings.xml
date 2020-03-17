@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">EyeWitness</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="name">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="cPassword">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="newAccount">New Account</string>
+    <string name="open">Drawer Opened</string>
+    <string name="close">Drawer Closed</string>
+    <string name="welcome">Welcome Back: </string>
+
+    <string name="home">Home</string>
+    <string name="request">Service Request</string>
+    <string name="witness">My Witnesses</string>
+    <string name="logs">Services</string>
+    <string name="login">Login</string>
+    <string name="contact">Contact Us</string>
+    <string name="profile">My Profile</string>
+    <string name="settings">Settings</string>
+    <string name="others">  Others</string>
+    <string name="about">About Us</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="create">Create Account</string>
+    <string name="uploads">My Uploads</string>
+    <string name="upload">Upload Styles</string>
+    <string name="logout">Logout</string>
+    <string name="filename">Filename: %s</string>
+    <string name="type">Type: %s</string>
+    <string name="aboutUs">Eye witness Application is a final year project carried out by Victor
+        under the supervision of Mr Logunleko implemented in Android Platform
+        using Java Programming Language and XAMPP as the storage server.</string>
+
+    <string name="intro">
+        The Ogun state television (OGTV) Abeokuta provides a free to-air Television service, featuring Drama, News, Sports and Movies.
+    </string>
+
+    <string name="confirm">Are you sure you want to inform OGTV about this incident?</string>
+    <string name="terms">These Website Standard Terms and Conditions written on this webpage shall manage your use of our website, Webiste Name accessible at Website.com.
+These Terms will be applied fully and affect to your use of this Website. By using this Website, you agreed to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Website Standard Terms and Conditions.</string>
+    <string name="apiKey">AIzaSyBdfzao0oxnKqmdjWfQcygzS5uuIP18q7k</string>
+</resources>
